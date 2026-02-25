@@ -1,6 +1,17 @@
 body{
-    text-align: center;
     font-family: 'Arial';
     color: darkcyan;
     background: rgb(240, 245, 250);
+}
+
+.title-page{
+    text-align: center;
+}
+
+.navigation a{
+    font-family: 'Arial';
+    color: rgb(8, 79, 79);
+}
+.navigation a:hover {
+    color: rgb(150,175,175)
 }
